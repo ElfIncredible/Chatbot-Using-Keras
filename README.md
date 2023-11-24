@@ -1,2 +1,2 @@
 # Chatbot-Using-Keras
-Building a simple neural network for a chatbot using Keras
+Building a simple neural network for a chatbot using Keras, with a bag-of-words approach for text representation. The model is trained using intents specified in a JSON file. The trained model is then saved for later use, then we implement a simple chatbot that takes user input, predicts the intent of the input using a trained neural network model, and responds with a predefined message based on the predicted intent. The chatbot runs in an infinite loop, continuously taking user input and providing responses.
